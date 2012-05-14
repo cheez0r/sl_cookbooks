@@ -1,0 +1,42 @@
+[submodule "chef-user"]
+	path = chef-user
+	url = https://github.com/fnichol/chef-user.git
+[submodule "build-essential"]
+	path = build-essential
+	url = https://github.com/opscode-cookbooks/build-essential.git
+[submodule "cron"]
+	path = cron
+	url = https://github.com/opscode-cookbooks/cron.git
+[submodule "emacs"]
+	path = emacs
+	url = https://github.com/opscode-cookbooks/emacs.git
+[submodule "motd-tail"]
+	path = motd-tail
+	url = https://github.com/opscode-cookbooks/motd-tail.git
+[submodule "nagios"]
+	path = nagios
+	url = https://github.com/opscode-cookbooks/nagios.git
+[submodule "ntp"]
+	path = ntp
+	url = https://github.com/opscode-cookbooks/ntp.git
+[submodule "openssh"]
+	path = openssh
+	url = https://github.com/opscode-cookbooks/openssh.git
+[submodule "openssl"]
+	path = openssl
+	url = https://github.com/opscode-cookbooks/openssl.git
+[submodule "sudo"]
+	path = sudo
+	url = https://github.com/opscode-cookbooks/sudo.git
+[submodule "ubuntu"]
+	path = ubuntu
+	url = https://github.com/opscode-cookbooks/ubuntu.git
+[submodule "vim"]
+	path = vim
+	url = https://github.com/opscode-cookbooks/vim.git
+[submodule "fail2ban"]
+	path = fail2ban
+	url = https://github.com/opscode-cookbooks/fail2ban.git
+[submodule "ganglia"]
+	path = ganglia
+	url = https://github.com/heavywater/chef-ganglia.git
