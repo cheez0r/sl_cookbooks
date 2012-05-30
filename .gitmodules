@@ -82,3 +82,6 @@
 [submodule "keystone"]
 	path = keystone
 	url = https://github.com/cheez0r/keystone.git
+[submodule "runit"]
+	path = runit
+	url = https://github.com/opscode-cookbooks/runit.git
