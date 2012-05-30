@@ -85,3 +85,6 @@
 [submodule "runit"]
 	path = runit
 	url = https://github.com/opscode-cookbooks/runit.git
+[submodule "apache2"]
+	path = apache2
+	url = https://github.com/opscode-cookbooks/apache2.git
