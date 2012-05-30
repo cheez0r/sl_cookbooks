@@ -40,3 +40,45 @@
 [submodule "ganglia"]
 	path = ganglia
 	url = https://github.com/heavywater/chef-ganglia.git
+[submodule "glance"]
+	path = glance
+	url = https://github.com/cheez0r/glance.git
+[submodule "keystone"]
+	path = keystone
+	url = https://github.com/cheez0r/keystone.git
+[submodule "mysql"]
+	path = mysql
+	url = https://github.com/cheez0r/mysql.git
+[submodule "nginx"]
+	path = nginx
+	url = https://github.com/cheez0r/nginx.git
+[submodule "nova"]
+	path = nova
+	url = https://github.com/cheez0r/nova.git
+[submodule "postgresql"]
+	path = postgresql
+	url = https://github.com/cheez0r/postgresql.git
+[submodule "rabbitmq"]
+	path = rabbitmq
+	url = https://github.com/cheez0r/rabbitmq.git
+[submodule "ruby"]
+	path = ruby
+	url = https://github.com/cheez0r/ruby.git
+[submodule "xenserver"]
+	path = xenserver
+	url = https://github.com/cheez0r/xenserver.git
+[submodule "yum"]
+	path = yum
+	url = https://github.com/cheez0r/yum.git
+[submodule "swift"]
+	path = swift
+	url = https://github.com/cheez0r/swift.git
+[submodule "memcached"]
+	path = memcached
+	url = https://github.com/cheez0r/memcached.git
+[submodule "munin"]
+	path = munin
+	url = https://github.com/cheez0r/munin.git
+[submodule "apt"]
+	path = apt
+	url = https://github.com/cheez0r/apt.git
