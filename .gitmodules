@@ -94,3 +94,6 @@
 [submodule "php"]
 	path = php
 	url = https://github.com/opscode-cookbooks/php.git
+[submodule "xml"]
+	path = xml
+	url = https://github.com/opscode-cookbooks/xml.git
