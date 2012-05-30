@@ -79,3 +79,6 @@
 [submodule "apt"]
 	path = apt
 	url = https://github.com/cheez0r/apt.git
+[submodule "keystone"]
+	path = keystone
+	url = https://github.com/cheez0r/keystone.git
