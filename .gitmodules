@@ -43,9 +43,6 @@
 [submodule "glance"]
 	path = glance
 	url = https://github.com/cheez0r/glance.git
-[submodule "keystone"]
-	path = keystone
-	url = https://github.com/cheez0r/keystone.git
 [submodule "mysql"]
 	path = mysql
 	url = https://github.com/cheez0r/mysql.git
